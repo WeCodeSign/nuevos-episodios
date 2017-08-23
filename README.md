@@ -12,7 +12,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 
 ### Posibles Minis
 
-1. ¿Debe el diseñador saber código? Creo que si para poder diseñar en función de lo que es capaz de hacerse en la Web
+1. ¿Debe el diseñador saber código? Creo que sí para poder diseñar en función de lo que es capaz de hacerse en la Web
 1. ¿Deberíamos cobrar la prueba de código?
 1. ¿Personal portfolio y Github?
 1. ¿Qué es un Fullstack? ¿Es viable?
@@ -139,6 +139,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Ritxi Ostariz
 1. Rocío Muñoz
 1. Sourced
-1. Verónica Treynor
+1. Verónica Traynor
 1. Victor García (via Mauricio Angulo)
 1. Yamila Moreno
