@@ -4,6 +4,21 @@ Nuestra intención es hacer de [WeCodeSign Podcast](http://wecodesignpodcast.com
 
 Pedimos aportar de manera positiva, si algo no os gusta decidlo con educación por favor ;)
 
+## ¿Qué temas queremos tratar en WeCodeSign?
+
++ Front-End
++ UX/UI
++ Diseño Web
++ Nuestra industria en general
+  + Diversidad
+  + El estado del sector
+  + ... 
+
+## ¿Qué temas NO queremos tratar en WeCodeSign?
+
++ Back-end (básicamente porque no conocemos el tema)
++ Temas que no usen tecnologías Front-end
+
 ## ¿Cómo contribuir?
 
 Abre un [Issue](https://github.com/WeCodeSign/nuevos-episodios-e-invitades/issues) e indica un tema que te gustaría que tratásemos en WeCodeSign para un episodio con entrevista o Mini y quieres debatir sobre el mismo y tu motivación para que hablemos sobre ello.
