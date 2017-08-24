@@ -138,7 +138,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Darío Balbotín
 1. David Cantone
 1. Diego Freniche
-1. Eduardo Seda
+1. Eduardo Sada
 1. Elías Alonso
 1. Felipe Navio
 1. Félx Ortega
