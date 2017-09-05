@@ -87,6 +87,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Gestión de proyectos
 1. Google Campus
 1. Google Evangelist
+1. GraphQL: Apollo
 1. Hiring
 1. Houdini
 1. Inteligencia Artificial
@@ -112,6 +113,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. React
 1. React Native
 1. Relación entre diseñador y desarrollador
+1. Relay vs Redux
 1. Salarios en el sector
 1. Seguridad y Privacidad
 1. SEO
@@ -127,6 +129,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. WebGL
 1. WebRTC
 1. WebVR
+
 
 ### Posibles invitadas e invitados
 
