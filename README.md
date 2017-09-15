@@ -136,7 +136,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Ángel Corral Arias
 1. Anthanh Pham Trinh
 1. Blanca Tortajada
-1. Conoce a Verónica
 1. Darío Balbotín
 1. David Cantone
 1. Diego Freniche
