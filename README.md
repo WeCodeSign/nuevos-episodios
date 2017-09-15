@@ -79,6 +79,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Diseño de Interacción
 1. eCommerce
 1. El futuro de la Web
+1. El valor del diseño
 1. Emails
 1. Empathy for developers
 1. Extreme programming
