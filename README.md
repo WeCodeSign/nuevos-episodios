@@ -146,6 +146,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Elías Alonso
 1. Felipe Navio
 1. Félx Ortega
+1. Fina Pérez
 1. Francisco Baena
 1. Franck Scipion
 1. Janire Muñóz, manager de Google Actívate
