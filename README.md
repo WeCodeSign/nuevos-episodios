@@ -83,7 +83,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Emails
 1. Empathy for developers
 1. Extreme programming
-1. Freelancing
 1. Futuro CSS
 1. Gestión de proyectos
 1. Google Campus
@@ -107,7 +106,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Pagos Online
 1. Patrones de programación
 1. Polymer
-1. Product Design
 1. Programming principles
 1. Progressive Enhancement
 1. Proyectos sostenibles y éticos
