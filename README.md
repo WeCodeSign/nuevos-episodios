@@ -143,6 +143,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Elías Alonso
 1. Felipe Navio
 1. Félx Ortega
+1. Fernando Puente @fpuenteonline
 1. Fina Pérez
 1. Francisco Baena
 1. Franck Scipion
@@ -155,6 +156,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Miguel Arias
 1. Ritxi Ostariz
 1. Rocío Muñoz
+1. Rocío Valdivia - @rociovaldi
 1. Sourced
 1. Verónica Traynor
 1. Victor García (via Mauricio Angulo)
