@@ -36,6 +36,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Branding personal en la web
 1. Cada uno busca su hueco en la industria online pero... ¿a qué precio?
 1. Como aprender nuevas habilidades
+1. Como el mundo exterior ve a los desarroladores web
 1. Consejos para encontrar trabajo en la industria
 1. Consultora vs Estudio vs Freelance
 1. El peligro de los trolls en las comunidades
@@ -43,6 +44,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. La ética en el desarrollo
 1. La importancia de seguir una metodología de trabajo común (whitepapers)
 1. La vida después de un cambio de carrera (career switching)
+1. Material Design
 1. Ofertas de empleo basura y decir no
 1. Pensando en el futuro profesional
 1. Perfección vs realidad (la perfección evita sacar algo a delante)
@@ -82,6 +84,7 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. El valor del diseño
 1. Emails
 1. Empathy for developers
+1. Ética Profesional
 1. Extreme programming
 1. Futuro CSS
 1. Gestión de proyectos
@@ -128,7 +131,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. WebGL
 1. WebRTC
 1. WebVR
-
 
 ### Posibles invitadas e invitados
 
