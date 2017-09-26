@@ -113,8 +113,8 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Salarios en el sector
 1. Seguridad y Privacidad
 1. SEO
-1. Software Craftsmanship
-1. TDD
+1. Software Crafting
+1. TDD, BDD...
 1. Test the web forward by Adobe
 1. Usabilidad formularios
 1. Video Games in JavaScript
