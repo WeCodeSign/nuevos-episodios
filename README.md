@@ -81,7 +81,6 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Diseño de Interacción
 1. eCommerce
 1. El futuro de la Web
-1. El valor del diseño
 1. Emails
 1. Empathy for developers
 1. Ética Profesional
@@ -102,17 +101,12 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Mentoring
 1. Metodologías de trabajo
 1. MOOCS
-1. Mujeres en la tecnología
 1. Navegadores Web
 1. NodeJS
-1. Open Source Design
 1. Pagos Online
 1. Patrones de programación
-1. Polymer
 1. Programming principles
 1. Progressive Enhancement
-1. Proyectos sostenibles y éticos
-1. React
 1. React Native
 1. Relación entre diseñador y desarrollador
 1. Relay vs Redux
@@ -124,13 +118,23 @@ Crea una [Pull Request] si simplemente quieres añadir un tema para episodios co
 1. Test the web forward by Adobe
 1. Usabilidad formularios
 1. Video Games in JavaScript
-1. Vue
 1. Web Assambly
 1. Web Performance
 1. Web Unicorns
 1. WebGL
 1. WebRTC
 1. WebVR
+
+
+### Apalabrados
+
+1. El valor del diseño
+1. Mujeres en la tecnología
+1. Polymer
+1. React
+1. Vue
+1. Open Source Design
+1. Proyectos sostenibles
 
 ### Posibles invitadas e invitados
 
