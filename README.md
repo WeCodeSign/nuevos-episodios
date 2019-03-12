@@ -12,7 +12,7 @@ Pedimos aportar de manera positiva, si algo no os gusta decidlo con educación p
 + Nuestra industria en general
   + Diversidad
   + El estado del sector
-  + ... 
+  + ...
 
 ## ¿Qué temas NO queremos tratar en WeCodeSign?
 
@@ -25,146 +25,67 @@ Abre un [Issue](https://github.com/WeCodeSign/nuevos-episodios-e-invitades/issue
 
 Crea una [Pull Request] si simplemente quieres añadir un tema para episodios con entrevista, Mini o para añadir una invitada o invitado.
 
-### Posibles Minis
+### Posibles
 
+1. ¿Cuál es el mejor lenguaje para aprender?
 1. ¿Debe el diseñador saber código? Creo que sí para poder diseñar en función de lo que es capaz de hacerse en la Web
 1. ¿Deberíamos cobrar la prueba de código?
+1. ¿Eres frontend sin saber CSS?
 1. ¿Personal portfolio y Github?
 1. ¿Qué es un Fullstack? ¿Es viable?
 1. ¿Qué se demanda en el mercado laboral?
+1. "Death to bullshit" (publicidad en la web)
+1. Accesibilidad
+1. AMP y Instant Articles
+1. Arquitectura CSS
 1. Aside projects
+1. Atomic Design
 1. Branding personal en la web
+1. Browser prototyping / diseñar en el navegador
 1. Cada uno busca su hueco en la industria online pero... ¿a qué precio?
+1. Canvas
 1. Como aprender nuevas habilidades
-1. Como el mundo exterior ve a los desarroladores web
 1. Consejos para encontrar trabajo en la industria
 1. Consultora vs Estudio vs Freelance
+1. CSS está roto
+1. CSS nesting
+1. Custom properties
+1. Dark Patterns
+1. Debugging CSS
+1. Desktop APPs with HTML, CSS y JavaScript
+1. Diseño de Interacción
+1. El futuro de la Web
 1. El peligro de los trolls en las comunidades
 1. El valor de las conferencias
+1. Empathy for developers
+1. Extreme programming
+1. Futuro CSS
+1. Hiring
+1. Houdini
 1. La ética en el desarrollo
 1. La importancia de seguir una metodología de trabajo común (whitepapers)
 1. La vida después de un cambio de carrera (career switching)
-1. Material Design
+1. Learning as a newbie
+1. Mentoring
+1. Nuevos lenguajes de desarrollo en frontend: WebAssembly, Rust, TypeScript... y sus ventajas (o no) en cuanto a performance.
 1. Ofertas de empleo basura y decir no
+1. Patrones de programación
 1. Pensando en el futuro profesional
 1. Perfección vs realidad (la perfección evita sacar algo a delante)
 1. Pidiendo feedback sobre tus proyectos
 1. Principios del desarrollador
 1. Productividad trabajando desde casa
-1. Que hacer cuando nos quedamos con el trabajo
+1. Progressive Enhancement
+1. Relación entre diseñador y desarrollador
+1. Salarios en el sector
+1. Software Crafting
 1. Son suficientes las pruebas técnicas?
+1. TDD, BDD...
 1. Trabajar en un lugar deseado con buenos profesionales: diseño + producto + web dev (front + back) y que se valore el trabajo de todos ¿Es posible?
 1. Trabajas de esto, ¿también es necesario hacerlo en tu tiempo libre? ¿Cuándo descansamos?
-1. Work development tools
-
-### Posibles temas para entrevistas
-
-1. ¿Cuál es el mejor lenguaje para aprender?
-1. ¿Eres frontend sin saber CSS?
-1. ¿Qué implica ser CTO?
-1. "Death to bullshit" (publicidad en la web)
-1. Agile
-1. Algoritmia
-1. AMP vs Instant Articles
-1. Angular
-1. APIs
-1. Arquitectura CSS
-1. Atomic Design
-1. Browser prototyping / diseñar en el navegador
-1. Canvas
-1. Control de versiones
-1. Creative Coding
-1. CSS está roto
-1. Dark Patterns
-1. Debugging CSS
-1. Desktop APPs with HTML, CSS y JavaScript
-1. Diseño de Interacción
-1. eCommerce
-1. El futuro de la Web
-1. Emails
-1. Empathy for developers
-1. Ética Profesional
-1. Extreme programming
-1. Futuro CSS
-1. Gestión de proyectos
-1. Google Campus
-1. Google Evangelist
-1. GraphQL: Apollo
-1. Hiring
-1. Houdini
-1. Inteligencia Artificial
-1. Internet of Things
-1. La ética en desarrollo
-1. Learning as a newbie
-1. Let’s Encrypt
-1. Machine Learning
-1. Mentoring
-1. Metodologías de trabajo
-1. MOOCS
-1. Navegadores Web
-1. NodeJS
-1. Open Source Licenses
-1. Pagos Online
-1. Patrones de programación
-1. Programming principles
-1. Progressive Enhancement
-1. React Native
-1. Relación entre diseñador y desarrollador
-1. Relay vs Redux
-1. Salarios en el sector
-1. Seguridad y Privacidad
-1. SEO
-1. Software Crafting
-1. TDD, BDD...
-1. Test the web forward by Adobe
 1. Usabilidad formularios
-1. Video Games in JavaScript
 1. Web Assambly
 1. Web Performance
 1. Web Unicorns
 1. WebGL
-1. WebRTC
-1. WebVR
-
-
-### Apalabrados
-
-1. El valor del diseño
-1. Mujeres en la tecnología
-1. Polymer
-1. React
-1. Vue
-1. Open Source Design
-1. Proyectos sostenibles
-
-### Posibles invitadas e invitados
-
-1. Alicia Chavero
-1. Ángel Corral Arias
-1. Anthanh Pham Trinh
-1. Blanca Tortajada
-1. Darío Balbotín
-1. David Cantone
-1. Diego Freniche
-1. Eduardo Sada
-1. Elías Alonso
-1. Felipe Navio
-1. Félx Ortega
-1. Fernando Puente @fpuenteonline
-1. Fina Pérez
-1. Francisco Baena
-1. Franck Scipion
-1. Janire Muñóz, manager de Google Actívate
-1. Javier Vélez
-1. Javier Velez Reyes
-1. Jorge del Casar
-1. Juan Pablo Buritica
-1. Miguel Ángel Álvarez
-1. Miguel Arias
-1. Ritxi Ostariz
-1. Rocío Muñoz
-1. Rocío Valdivia - @rociovaldi
-1. Sourced
-1. Verónica Traynor
-1. Victor García (via Mauricio Angulo)
-1. Yamila Moreno
+1. Work development tools
