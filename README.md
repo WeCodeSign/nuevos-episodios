@@ -82,6 +82,7 @@ Abre un [Issue](https://github.com/WeCodeSign/nuevos-episodios-e-invitades/issue
 1. Trabajar en un lugar deseado con buenos profesionales: diseño + producto + web dev (front + back) y que se valore el trabajo de todos ¿Es posible?
 1. Trabajas de esto, ¿también es necesario hacerlo en tu tiempo libre? ¿Cuándo descansamos?
 1. Usabilidad formularios
+1. Vínculos personales con nuestros compañeros de equipo. ¿Es necesario? ¿Cómo afecta positiva y negativamente? (en caso de code reviews, críticas, workshops, si alguien se marcha del equipo/empresa...) - Propuesto por @tureey
 1. Web Assambly
 1. Web Performance
 1. Web Unicorns
