@@ -43,6 +43,9 @@ Abre un [Issue](https://github.com/WeCodeSign/nuevos-episodios-e-invitades/issue
 1. Cada uno busca su hueco en la industria online pero... ¿a qué precio?
 1. Canvas
 1. Como aprender nuevas habilidades
+1. Como me enfrenté a un proyecto de código legado basado en un framework que no conozco.
+1. Como crear componentes reutilizables de verdad.
+1. Cómo darle la bienvenida a una nueva compañera de trabajo (onboarding y esas cosas).
 1. Consejos para encontrar trabajo en la industria
 1. Consultora vs Estudio vs Freelance
 1. CSS está roto
